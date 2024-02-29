@@ -1,8 +1,22 @@
 Ofrecer a las y los asistentes los conocimientos y capacidades teòricopracticas requeridas para implementar las tècnicas, tecnologìas, procedimientos y estrategias más adecuados sobre ciberseguridad.
 Desarrollar en las y los participantes capacidades preventivas, operativas y de direcciòn
 1. Factor humano (15 horas)
+	El factor humano y su relación con la ciberseguridad
 2. Àrea estratégica ( 30 horas)
+	Infraestructura crítica y estrategias integrales
+	Criptografia básica
 3. Acción y reacción (120 horas)
+	Técnicas y métodos para la detección y prevención de amenazas a la ciberseguridad
+	Investigación del malware a profundidad
+	Análisis forense
+	Ciberseguridad en la deep y dark web
+	Casos prácticos del manejo de incidentes
 4. Ciberseguridad y el mundo industrial (20 horas)
+	Seguridad en el ICS
 5. Ámbito legal y financiero (25 horas)
+	El impacto econòmico de la ciberseguridad
 6. Liderazgo en ciberseguridad (30 horas)
+	Construcción y vigilancia de la ciberseguridad
+	Funciones y habilidades del CISO (Chief Information Security Officer)
+Total son 240 horas
+
